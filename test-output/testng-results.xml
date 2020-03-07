@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16550" started-at="2020-03-06T03:45:59Z" finished-at="2020-03-06T03:46:16Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16550" started-at="2020-03-06T03:45:59Z" finished-at="2020-03-06T03:46:16Z">
+      <class name="com.testCases.SwitchingTabs">
+        <test-method status="PASS" signature="invokebrowser()[pri:0, instance:com.testCases.SwitchingTabs@4411d970]" name="invokebrowser" is-config="true" duration-ms="17" started-at="2020-03-06T09:15:59Z" finished-at="2020-03-06T09:15:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invokebrowser -->
+        <test-method status="PASS" signature="intilizeBrowseer()[pri:0, instance:com.testCases.SwitchingTabs@4411d970]" name="intilizeBrowseer" is-config="true" duration-ms="15311" started-at="2020-03-06T09:15:59Z" finished-at="2020-03-06T09:16:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intilizeBrowseer -->
+        <test-method status="PASS" signature="switchTest()[pri:0, instance:com.testCases.SwitchingTabs@4411d970]" name="switchTest" duration-ms="850" started-at="2020-03-06T09:16:14Z" finished-at="2020-03-06T09:16:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchTest -->
+        <test-method status="PASS" signature="atLast()[pri:0, instance:com.testCases.SwitchingTabs@4411d970]" name="atLast" is-config="true" duration-ms="329" started-at="2020-03-06T09:16:15Z" finished-at="2020-03-06T09:16:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atLast -->
+      </class> <!-- com.testCases.SwitchingTabs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
